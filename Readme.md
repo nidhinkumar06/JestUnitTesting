@@ -11,7 +11,7 @@ Add script in package.json
     "test": "jest"
   }
 } -->
-
+To run use the command: jest
 External Links:
 https://stackoverflow.com/questions/28725955/how-do-i-test-a-single-file-using-jest
 https://github.com/facebook/jest
